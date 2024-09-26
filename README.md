@@ -15,7 +15,6 @@
 
 <div>
     <h3 align="left">Languages and Tools:</h3>
-
     <h4 align="left">WEB:</h4>
     <p align="left">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -31,7 +30,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
         </a>
     </p>
-
     <h4 align="left">SERVER:</h4>
     <p align="left">
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -41,7 +39,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         </a>
     </p>
-
     <h4 align="left">SQL:</h4>
     <p align="left">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -51,7 +48,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
         </a>
     </p>
-
     <h4 align="left">Deep Learning:</h4>
     <p align="left">
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
